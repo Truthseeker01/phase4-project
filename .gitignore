@@ -57,3 +57,5 @@ jspm_packages
 # Pycache garbage
 */__pycache__/
 __pycache__/
+
+.env
